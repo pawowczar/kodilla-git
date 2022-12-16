@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pawowczar/kodilla-git/issues"
   },
-  "homepage": "https://github.com/pawowczar/kodilla-git#readme"
+  "homepage": "https://github.com/pawowczar/kodilla-git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
 }
