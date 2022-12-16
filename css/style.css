@@ -1,1 +1,19 @@
+.song-text p, h1, h2 {
+  text-align: center;
+}
 
+h1 {
+  font-size: 30px;
+  color: blue;
+  text-transform: uppercase;
+}
+h2{
+  font-style: italic;
+  color: rgb(84, 84, 84);
+  font-size: 18px;
+}
+
+.song-text p{
+  padding: 15px;
+  line-height: 1.5;
+}
