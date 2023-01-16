@@ -1,1 +1,5 @@
+Instalacja
 npm install -g --save-dev html-validate
+
+Sprawdzanie: 
+npm exec html-validate *.html
